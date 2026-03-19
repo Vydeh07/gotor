@@ -1,4 +1,4 @@
-# gotor 🧲
+# gotor 
 
 A BitTorrent client built from scratch in Go — no BitTorrent libraries used.
 
